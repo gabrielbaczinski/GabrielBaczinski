@@ -21,7 +21,7 @@ Neste repositório, você encontrará alguns dos projetos que venho desenvolvend
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbaczinski/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabrielbaczinski/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielbaczinski@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-555555?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/gabrielbaczinski/GabrielBaczinski/blob/main/Curr%C3%ADculo.pdf)
 [![Lattes](https://img.shields.io/badge/Lattes-004080?style=flat-square&logo=researchgate&logoColor=white)](https://lattes.cnpq.br/5780671838925571)
