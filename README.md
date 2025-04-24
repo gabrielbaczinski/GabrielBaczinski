@@ -21,24 +21,9 @@ Neste repositório, você encontrará alguns dos projetos que venho desenvolvend
 
 ## 📫 Contato
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/gabrielbaczinski/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<!-- Gmail -->
-<a href="mailto:gabrielbaczinski@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-<!-- Currículo -->
-<a href="https://github.com/gabrielbaczinski/GabrielBaczinski/blob/main/Curr%C3%ADculo.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Currículo-555555?style=flat-square&logo=readthedocs&logoColor=white" alt="Currículo" />
-</a>
-
-<!-- Lattes -->
-<a href="https://lattes.cnpq.br/5780671838925571" target="_blank">
-  <img src="https://img.shields.io/badge/Lattes-004080?style=flat-square&logo=researchgate&logoColor=white" alt="Lattes" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbaczinski/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielbaczinski@gmail.com)
+[![Currículo](https://img.shields.io/badge/Currículo-555555?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/gabrielbaczinski/GabrielBaczinski/blob/main/Curr%C3%ADculo.pdf)
+[![Lattes](https://img.shields.io/badge/Lattes-004080?style=flat-square&logo=researchgate&logoColor=white)](https://lattes.cnpq.br/5780671838925571)
 
 ---
