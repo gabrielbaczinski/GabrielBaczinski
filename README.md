@@ -19,17 +19,17 @@
 
 ## 📫 Contato
 
-<p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-  <a href="https://www.linkedin.com/in/gabrielbaczinski/" target="_blank" rel="noopener noreferrer">
-    <img src="https://c.tenor.com/48gjddvdLxoAAAAC/linkedin-link.gif" style="max-width:130px; width:100%;" alt="LinkedIn Animado" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielbaczinski/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:gabrielbaczinski@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://c.tenor.com/ThnUZjxaz6UAAAAC/gmail-mail.gif" style="max-width:130px; width:100%;" alt="Gmail Animado" />
+  <a href="mailto:gabrielbaczinski@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/gabrielbaczinski/GabrielBaczinski/blob/main/Curr%C3%ADculo.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://c.tenor.com/Pl2o2P4B3ycAAAAC/pdf-file.gif" style="max-width:130px; width:100%;" alt="Currículo Animado" />
+  <a href="https://github.com/gabrielbaczinski/GabrielBaczinski/blob/main/Curr%C3%ADculo.pdf">
+    <img src="https://img.shields.io/badge/Currículo-555555?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
-  <a href="https://lattes.cnpq.br/5780671838925571" target="_blank" rel="noopener noreferrer">
-    <img src="https://c.tenor.com/fIEMc-Zvp3kAAAAC/reading-book.gif" style="max-width:130px; width:100%;" alt="Lattes Animado" />
+  <a href="https://lattes.cnpq.br/5780671838925571">
+    <img src="https://img.shields.io/badge/Lattes-004080?style=for-the-badge&logo=researchgate&logoColor=white"/>
   </a>
 </p>
