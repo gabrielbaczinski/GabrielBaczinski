@@ -12,7 +12,15 @@
 ## 🚀 Tecnologias Utilizadas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,java,python,mysql,swagger" />
+  <!-- Ícones animados para algumas tecnologias -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" title="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" title="Node.js" />
+  <img src="https://c.tenor.com/F54jllcq46wAAAAC/tailwind-css.gif" width="50" title="Tailwind CSS" />
+  <img src="https://c.tenor.com/EfpqvQxj8RsAAAAC/bootstrap-bootstrap-5.gif" width="50" title="Bootstrap" />
+  <img src="https://c.tenor.com/OQZQt17I5RQAAAAC/java-java-logo.gif" width="50" title="Java" />
+  <img src="https://c.tenor.com/d4CGW_Z9LOoAAAAC/python-python-logo.gif" width="50" title="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="50" title="Swagger API" />
 </p>
 
 ---
@@ -20,16 +28,16 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielbaczinski/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/gabrielbaczinski/" title="LinkedIn">
+    <img src="https://c.tenor.com/48gjddvdLxoAAAAC/linkedin-link.gif" width="120" alt="LinkedIn"/>
   </a>
-  <a href="mailto:gabrielbaczinski@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:gabrielbaczinski@gmail.com" title="Email">
+    <img src="https://c.tenor.com/ThnUZjxaz6UAAAAC/gmail-mail.gif" width="120" alt="Gmail"/>
   </a>
-  <a href="https://github.com/gabrielbaczinski/GabrielBaczinski/blob/main/Curr%C3%ADculo.pdf">
-    <img src="https://img.shields.io/badge/Currículo-555555?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  <a href="https://github.com/gabrielbaczinski/GabrielBaczinski/blob/main/Curr%C3%ADculo.pdf" title="Currículo">
+    <img src="https://c.tenor.com/Pl2o2P4B3ycAAAAC/pdf-file.gif" width="120" alt="Currículo PDF"/>
   </a>
-  <a href="https://lattes.cnpq.br/5780671838925571">
-    <img src="https://img.shields.io/badge/Lattes-004080?style=for-the-badge&logo=researchgate&logoColor=white"/>
+  <a href="https://lattes.cnpq.br/5780671838925571" title="Lattes">
+    <img src="https://c.tenor.com/fIEMc-Zvp3kAAAAC/reading-book.gif" width="120" alt="Lattes"/>
   </a>
 </p>
