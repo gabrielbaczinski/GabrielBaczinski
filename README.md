@@ -41,5 +41,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Apaixonado+por+Tecnologia;Sempre+em+Evolução..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&width=500&lines=Desenvolvedor+Fullstack;Apaixonado+por+Tecnologia;Sempre+em+Evolução..." alt="Typing SVG" />
 </p>
