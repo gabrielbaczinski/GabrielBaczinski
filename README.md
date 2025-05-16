@@ -12,17 +12,11 @@
 ## 🚀 Tecnologias Utilizadas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,java,python,mysql,api" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,java,python,mysql" />
 </p>
 
----
-
-## 🛠️ Projetos em Destaque
-
-<!-- Aqui você pode colocar GIFs de seus projetos em funcionamento -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="project gif">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="project gif 2">
+  <img src="https://img.shields.io/badge/API/REST-000000?style=for-the-badge&logo=swagger&logoColor=white" />
 </p>
 
 ---
