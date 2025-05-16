@@ -33,9 +33,3 @@
     <img src="https://img.shields.io/badge/Lattes-004080?style=for-the-badge&logo=researchgate&logoColor=white"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielbaczinski/gabrielbaczinski/main/github-contribution-grid-snake.svg" alt="snake eating commits" />
-</p>
