@@ -36,8 +36,6 @@
 
 ---
 
-## 🐍 Snake comendo os commits
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielbaczinski/gabrielbaczinski/output/github-contribution-grid-snake.svg" alt="snake eating commits" />
+  <img src="https://raw.githubusercontent.com/gabrielbaczinski/gabrielbaczinski/main/github-contribution-grid-snake.svg" alt="snake eating commits" />
 </p>
