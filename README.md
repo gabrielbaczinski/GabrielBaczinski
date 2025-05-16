@@ -12,7 +12,11 @@
 ## 🚀 Tecnologias Utilizadas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,java,python,mysql,swagger" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,java,python,mysql" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/API%20REST-6DB33F?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -32,10 +36,4 @@
   <a href="https://lattes.cnpq.br/5780671838925571">
     <img src="https://img.shields.io/badge/Lattes-004080?style=for-the-badge&logo=researchgate&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300" alt="keep coding" />
 </p>
