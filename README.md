@@ -12,11 +12,7 @@
 ## 🚀 Tecnologias Utilizadas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,java,python,mysql" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/API%20REST-6DB33F?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,java,python,mysql,swagger" />
 </p>
 
 ---
@@ -36,4 +32,12 @@
   <a href="https://lattes.cnpq.br/5780671838925571">
     <img src="https://img.shields.io/badge/Lattes-004080?style=for-the-badge&logo=researchgate&logoColor=white"/>
   </a>
+</p>
+
+---
+
+## 🐍 Snake comendo os commits
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gabrielbaczinski/gabrielbaczinski/output/github-contribution-grid-snake.svg" alt="snake eating commits" />
 </p>
