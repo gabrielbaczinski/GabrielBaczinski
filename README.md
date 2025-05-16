@@ -12,11 +12,7 @@
 ## 🚀 Tecnologias Utilizadas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,java,python,mysql" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/API/REST-000000?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,java,python,mysql,swagger" />
 </p>
 
 ---
@@ -41,5 +37,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&width=500&lines=Desenvolvedor+Fullstack;Apaixonado+por+Tecnologia;Sempre+em+Evolução..." alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300" alt="keep coding" />
 </p>
