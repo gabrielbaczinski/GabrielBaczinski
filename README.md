@@ -1,49 +1,33 @@
 <h1 align="center">
-  👋 Olá! Seja muito bem-vindo ao meu cantinho no GitHub!  
+  📌 Bem-vindo ao meu Portfólio!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
+<p align="center">Olá! Sou <strong>Gabriel Baczinski</strong>, estudante de <strong>Sistemas de Informação</strong> na <strong>PUCPR</strong>.</p>
+
+<p align="center">Neste repositório, você encontrará alguns dos projetos que venho desenvolvendo, com foco em <strong>desenvolvimento fullstack</strong>, aplicando conceitos práticos em tecnologias modernas.</p>
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7D300&center=true&vCenter=true&width=1000&lines=Eu+sou+o+Gabriel+Baczinski!;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+na+PUCPR.;Explorando+o+mundo+Fullstack.;Codando+e+aprendendo+um+pouquinho+todo+dia+🚀" alt="Typing animation" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,java,python,mysql,api" />
 </p>
 
 ---
 
-## 💻 Sobre mim
+## 🛠️ Projetos em Destaque
 
-🎓 Estudante de **Sistemas de Informação** na **PUCPR**  
-🧠 Curioso por tecnologia e movido a café ☕  
-🛠️ Apaixonado por colocar ideias em prática com código  
-🌐 Sempre explorando o universo do **desenvolvimento fullstack**  
-💡 Tentando não quebrar nada (mas acontece às vezes 😅)
-
----
-
-## ✨ Tecnologias que curto usar
-
+<!-- Aqui você pode colocar GIFs de seus projetos em funcionamento -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,java,python,mysql" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/API/REST-000000?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="project gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="project gif 2">
 </p>
 
 ---
 
-## 📈 Meu ritmo por aqui
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielbaczinski&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbaczinski&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielbaczinski&theme=github-compact&hide_border=true&area=true" />
-</p>
-
----
-
-## 📬 Vamos conversar?
+## 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielbaczinski/">
@@ -63,7 +47,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="coding fun gif" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Apaixonado+por+Tecnologia;Sempre+em+Evolução..." alt="Typing SVG" />
 </p>
-
-<p align="center"><strong>Valeu por passar por aqui! 🚀</strong></p>
